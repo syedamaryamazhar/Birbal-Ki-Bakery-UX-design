@@ -45,5 +45,5 @@ Small bakeries often lack an intuitive and visually engaging platform to showcas
 ## 📄 Project Files
 
 - [Full UX Case Study (PDF)](Birbal-ki-bakery-case-study.pdf)
-- [Prototype Screens (PDF)](Birbal-ki-bakery-prototype-screens.pdf)
+- [Prototype Screens (PDF)](Birbal-ki-bakery-prototype.pdf)
 
